@@ -82,10 +82,6 @@
     <string name="upload_list_empty_headline">Немає доступних вивантажень.</string>
     <string name="file_list_folder">тека</string>
     <string name="filedetails_select_file">Натисніть на файлі для відображення додаткової інформації</string>
-    <string name="filedetails_size">Розмір:</string>
-    <string name="filedetails_type">Тип:</string>
-    <string name="filedetails_created">Створено:</string>
-    <string name="filedetails_modified">Змінено:</string>
     <string name="filedetails_download">Завантажити</string>
     <string name="filedetails_sync_file">Синхронізувати</string>
     <string name="action_share">Поділитися</string>
